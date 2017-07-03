@@ -1,0 +1,15 @@
+127.0.0.1 - - [13/Apr/2017:19:25:40 +0900] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:40 +0900] "GET /Shop/index.jsp HTTP/1.1" 200 2678
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:40 +0900] "GET /Shop/member/member.js HTTP/1.1" 200 1601
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:40 +0900] "GET /Shop/css/shopping.css HTTP/1.1" 200 7743
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:40 +0900] "GET /Shop/mypage/mypage.js HTTP/1.1" 200 1542
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:40 +0900] "GET /Shop/images/under_logo.gif HTTP/1.1" 200 3061
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:40 +0900] "GET /Shop/images/main_img.jpg HTTP/1.1" 200 93766
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:40 +0900] "GET /Shop/images/logo.gif HTTP/1.1" 200 26620
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:40 +0900] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:43 +0900] "GET /Shop/NonageServlet?command=admin_login_form HTTP/1.1" 200 1584
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:43 +0900] "GET /Shop/admin/images/bar_01.gif HTTP/1.1" 200 462
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:43 +0900] "GET /Shop/admin/css/admin.css HTTP/1.1" 200 6269
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:44 +0900] "GET /Shop/admin/images/text.gif HTTP/1.1" 200 923
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:45 +0900] "POST /Shop/NonageServlet?command=admin_login HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:19:25:48 +0900] "POST /Shop/NonageServlet?command=admin_login HTTP/1.1" 200 -
